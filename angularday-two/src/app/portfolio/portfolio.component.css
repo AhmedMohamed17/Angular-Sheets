@@ -1,0 +1,24 @@
+.custom-light-grey-bg {
+    background-color: #9c9c9c; /* Light blue background color */
+  }
+
+  .custom-dark-grey-bg {
+    background-color: rgb(71, 71, 71); /* Light green background color */
+  }
+
+  .custom-light-orange-bg {
+    background-color: #fd7e14; /* Light orange background color */
+  }
+
+  .card {
+    border-radius: 0; /* Remove border-radius for sharp edges */
+    text-align: center; /* Center text horizontally within the card */
+  }
+
+  .card-title {
+    color: white; /* White text color for card titles */
+  }
+
+  .card-text {
+    color: white; /* White text color for card content */
+  }

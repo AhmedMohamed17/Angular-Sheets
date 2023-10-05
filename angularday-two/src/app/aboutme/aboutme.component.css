@@ -1,0 +1,11 @@
+.custom-button {
+    background-color: #333; /* Dark grey color */
+    color: #fff; /* White text color */
+    border: none; /* Remove border */
+    border-radius: 0; /* Remove border-radius for sharp edges */
+    padding: 10px 20px; /* Adjust padding as needed */
+  }
+
+  .custom-button:hover {
+    background-color: #555; /* Darken the button color on hover */
+  }
